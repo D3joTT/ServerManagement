@@ -9,6 +9,7 @@ def delete(to_delete):
         file = Path(f'./../{directory}/plugins/{to_delete}')
         if file.exists():
             os.system(f'rm -r ./../{directory}/plugins/{to_delete}')
+    print(f' \n Pomyslnie usunieto: {to_delete}\n')
 
 
 delete('vulcan.jar')
