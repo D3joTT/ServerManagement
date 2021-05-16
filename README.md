@@ -2,7 +2,7 @@
 
 Utils for server management to optimize basic processes such as enabling servers, updating or deleting plugins and directories.
 
-## File structure
+## Files structure
 
 ./server1
 
