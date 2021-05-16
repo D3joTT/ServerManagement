@@ -1,6 +1,6 @@
 # Server Management
 
-Utils for server management to optimize basic processes such as updating or deleting plugins, directories.
+Utils for server management to optimize basic processes such as enabling servers, updating or deleting plugins and directories.
 
 ## File structure
 
